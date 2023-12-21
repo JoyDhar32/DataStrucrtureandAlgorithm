@@ -1,8 +1,0 @@
-lorem50
-\f	Form Feed
-Extracting String Parts
-There are 3 methods for extracting a part of a string:
-
-slice(start, end)
-substring(start, end)
-substr(start, length)
