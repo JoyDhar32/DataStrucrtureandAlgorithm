@@ -1,0 +1,180 @@
+[33mcommit f4181896de4488a6766c822a511747946a7b6bf2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Wed Jan 10 13:08:15 2024 +1100
+
+    conversion
+
+ methods/stringtonumberviceversa.js | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit faced1f2950885ea40d425372ccccb04e705e3ad[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Wed Jan 10 12:34:42 2024 +1100
+
+    About set method
+
+ set.js | 10 [32m++++++++++[m
+ 1 file changed, 10 insertions(+)
+
+[33mcommit f5871ad005823b2905f2fa8108aebdba414c7d93[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Tue Jan 9 20:02:09 2024 +1100
+
+    array
+
+ array.js | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 7300f4ddb91604789a18702b342a20deae13150e[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Thu Dec 28 22:35:42 2023 +1100
+
+    update
+
+ climbingStaircase.js             | 12 [32m++++++++++++[m
+ methods/stringArrayConversion.js |  8 [32m++++++++[m
+ 2 files changed, 20 insertions(+)
+
+[33mcommit f5c8870e624b73ab596b1ee638466bdb2e06fbd2[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Thu Dec 28 12:51:16 2023 +1100
+
+    update
+
+ cartesianProduct.js | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 509f7f0c0178e7343c0294decbc59861820269a6[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Thu Dec 28 12:48:04 2023 +1100
+
+    Cartesian Product
+
+ QuickSort.js        |  4 [32m++++[m
+ cartesianProduct.js | 12 [32m++++++++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit 4aa122fe759dd2b94809961b906413eb72114308[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Wed Dec 27 13:36:56 2023 +1100
+
+    update quicksort
+
+ QuickSort.js | 52 [32m+++++++++++++++++++[m[31m---------------------------------[m
+ 1 file changed, 19 insertions(+), 33 deletions(-)
+
+[33mcommit af2bd47b00e54589cd2e093bc8cc799748d183ef[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Mon Dec 25 11:56:55 2023 +1100
+
+    update
+
+ BinarySearch.js  | 33 [32m+++++++++++++++++++++++++++++++++[m
+ SortJsBuildin.js | 11 [32m+++++++++++[m
+ bubbleSort.js    |  8 [32m+++++[m[31m---[m
+ 3 files changed, 49 insertions(+), 3 deletions(-)
+
+[33mcommit 1d26a5e266141182753af8834adc0da9225f02ff[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Sun Dec 24 16:33:08 2023 +1100
+
+    add linear search
+
+ linearSearch.js | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
+
+[33mcommit f2c765cf026e877c7a66bbee3ec952f64ce770df[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Sun Dec 24 15:57:12 2023 +1100
+
+    prime
+
+ factorialSeries.js | 13 [32m+++++++++++++[m
+ prime.js           | 27 [32m+++++++++++++++++++++++++++[m
+ primeSeries.js     | 24 [32m++++++++++++++++++++++++[m
+ 3 files changed, 64 insertions(+)
+
+[33mcommit 06b59d4f0888301da4eaaf04f1d235782a3aa5da[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Sun Dec 24 13:31:03 2023 +1100
+
+    factorial
+
+ factorial.js         |  9 [32m+++++++++[m
+ terms_condition.html | 15 [31m---------------[m
+ 2 files changed, 9 insertions(+), 15 deletions(-)
+
+[33mcommit e7572f76da367d21c7cd6853f15a53eae544b1da[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Sun Dec 24 13:19:28 2023 +1100
+
+    update fibonacci
+
+ fibonacciForOfLoop.js | 3 [32m++[m[31m-[m
+ fibonacciForloop.js   | 3 [32m++[m[31m-[m
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+[33mcommit 1bb98da80589393e811a743af2c467788ce538f2[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Sun Dec 24 12:12:55 2023 +1100
+
+    adding fibonacci using for of loop
+
+ fibonacciForOfLoop.js | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit 2a4e3a7f3770052a4a705cf9719db8e4be2118c1[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Sun Dec 24 12:07:41 2023 +1100
+
+    fibonacci using for loop
+
+ fibonacciForloop.js | 8 [32m++++++++[m
+ 1 file changed, 8 insertions(+)
+
+[33mcommit b47b75a97fa0da49681fedf05b65ef425a7255cb[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Fri Dec 22 20:15:52 2023 +1100
+
+    adding terms in html
+
+ QuickSort.js         | 19 [32m+++++++++++++++++++[m
+ terms_condition.html | 15 [32m+++++++++++++++[m
+ 2 files changed, 34 insertions(+)
+
+[33mcommit d46ed3fea2893da9605a3a032bfbab15e5138805[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Fri Dec 22 16:01:34 2023 +1100
+
+    quick sort
+
+ QuickSort.js | 19 [32m+++++++++++++++++++[m
+ 1 file changed, 19 insertions(+)
+
+[33mcommit 1667bb720a085e3b9ca6d31fe52c2d3fe3e09113[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Fri Dec 22 15:54:57 2023 +1100
+
+    adding insertion docx
+
+ InsertionSort.js | 21 [32m+++++++++++++++++++++[m
+ 1 file changed, 21 insertions(+)
+
+[33mcommit eeba3e3e4e0cc01397b394e89564d499e9d72f54[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Fri Dec 22 15:22:58 2023 +1100
+
+    adding insertion sort
+
+ BinarySearch.js  |  0
+ InsertionSort.js | 14 [32m++++++++++++++[m
+ 2 files changed, 14 insertions(+)
+
+[33mcommit 347bed27e61713ffcc82147b4a326cc475e37f78[m
+Author: JoyDhar32 <joyustcian@gmail.com>
+Date:   Fri Dec 22 02:09:44 2023 +1100
+
+    substring
+
+ substring.js | 27 [32m+++++++++++++++++++++++++++[m
+ 1 file changed, 27 insertions(+)
