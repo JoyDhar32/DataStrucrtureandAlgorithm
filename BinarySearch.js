@@ -32,3 +32,4 @@ console.log(BinarySearch([1, 2, 3, 4, 5], 0)); // -1
 console.log(BinarySearch([1, 2, 3, 4, 5], 5)); // 4
 // /* time complexity Big(O) = O(log(n)) */
 
+// 
