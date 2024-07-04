@@ -32,4 +32,5 @@ function insertionSort(arr) {
   return arr
 }
 
-console.log(insertionSort([2, 1, 9, 76, 4]))
+console.log(insertionSort([2, 1, 9, 76, 4])) // [1, 2, 4, 9, 76]
+console.log(insertionSort([3, 1, 4, 2, 5])) // [1, 2, 3, 4, 5]
