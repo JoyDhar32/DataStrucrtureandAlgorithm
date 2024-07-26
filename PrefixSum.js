@@ -57,5 +57,5 @@ To find the sum of elements between indices 1 and 3, we can use the prefix sum a
 
 
 Time Complexity: O(n) to build the prefix sum array and O(1) to answer each query.
-
+⭐ Prefix Sum ⭐
 */
