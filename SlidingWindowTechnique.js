@@ -9,7 +9,7 @@ const maxSumSubarray=(arr,k)=>{
     }
     let windowSum=maxSum;   // Initialize windowSum to maxSum 
     for(let i=k;i<len;i++){     // Iterate from k to the length of the array 
-        windowSum+= arr[i]-arr[i-k];   // Calculate the sum of the current window by adding the current element and subtracting the element k steps back from the current element 
+        windowSum+= arr[i]-arr[i-k];   // Calculate the sum of the current window by adding the current element and subtracting the element k steps back from the current element arr[3] - arr[3-3] = arr[3] - arr[0] 
         maxSum=Math.max(maxSum,windowSum);  // Update maxSum to the maximum of maxSum and windowSum 
     }
     return maxSum; // Return maxSum 
