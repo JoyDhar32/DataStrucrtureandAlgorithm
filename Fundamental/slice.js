@@ -26,3 +26,5 @@ const newStr2 = str.slice(10);
 console.log(newStr); // quick
 console.log(newStr2); // brown fox jumps over the lazy dog.
 console.log(str); // The quick brown fox jumps over the lazy dog.
+
+// 🌟 Slice 🌟
