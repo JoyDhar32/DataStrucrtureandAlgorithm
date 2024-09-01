@@ -3,7 +3,7 @@
 // Creating a Hash Map
 
 const map = new Map();
-map.set('name','Joy Dhar');
+map.set('name', 'Joy Dhar');
 map.set('age', 26);
 
 console.log(map.get('name')); // Output: Joy Dhar
@@ -22,7 +22,7 @@ console.log(map.get('age')); // Output: 25
 // Iterating Over a Map
 // You can iterate over the key-value pairs in a map using the entries(), keys(), and values() methods. Here's an example:
 
-const mapEx1= new Map(
+const mapEx1 = new Map(
     [
         ['name', 'Alice'],
         ['age', 30],
@@ -35,4 +35,4 @@ const mapEx1= new Map(
 
 mapEx1.forEach((value, key) => {
     console.log(`${key} is= ${value}`);
-  });
+});
